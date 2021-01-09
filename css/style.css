@@ -1,6 +1,13 @@
-h1 {
-	color: yellow;
+.menu{
+	height: 50px;
+	width: 100%;
+	background-color: brown;
+	color: white;
 }
-.first-header {
-	color: red;
+
+.slider{
+	height: 500px;
+	width: 100%;
+	background-color: tomato;
+	margin: 0px;
 }
